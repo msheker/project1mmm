@@ -1,0 +1,2 @@
+
+We are looking to cross-reference hate crimes and census data to uncover patterns in the US population.  We will be using FBI statistics of hate crimes from CSV files as well as the census data from 2018 (the year we have chosen from the FBI database).  
