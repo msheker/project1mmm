@@ -1,0 +1,31 @@
+
+Outline 
+
+Group6 :
+
+
+PROJECT TITLE:
+Hate Crimes Trends in the US 
+
+TEAM MEMBERS:
+Miguel Sheker, Marc Ritchie, McKenna Miranda
+
+PROJECT DESCRIPTION/OUTLINE:
+We are looking to cross-reference hate crimes and census data to uncover patterns in the US population.  We will be using FBI statistics of hate crimes from excel files as well as the census data from 2018 (the year we have chosen from the FBI database).  
+From our tables, we will be analyzing:
+what type of locations hate crimes occurred in (fields, ATMs, jails, etc.) across the bias motivation (race, religion, sexual orientation, etc.)
+The type of assault across what state
+Hate crime incidents per bias motivation and quarter 
+The reporting statistics from each state (population per crimes reported)
+
+RESEARCH QUESTIONS TO ANSWER:
+	Is there a relationship between Religious hate crime and geography?
+	Is there a relationship between Religious hate crime and the type of crime 	                          	(murder, assault, intimidation)?
+
+DATASET TO BE USED:
+	FBI data in excel files and census data from the Census API. 
+
+ROUGH BREAKDOWN OF TASKS:
+	Miguel: Manage cleaning data, data frame development  
+	Marc: Assist with cleaning data. Assist with plotting visualizations
+	McKenna: Write-up, compiling presentation, plotting visualizations 
