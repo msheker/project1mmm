@@ -1,9 +1,6 @@
 #!/usr/bin/env python
 # coding: utf-8
 
-# In[2]:
-
-
 true = True
 false = False
 census_aliases = { 
@@ -1211,20 +1208,9 @@ censuskey = dict()
 for key in census_aliases:
     censuskey[key] = census_aliases[key]["variable"]
 
-
-# In[3]:
-
-
-censuskey.keys()
-
-
-# In[10]:
-
-
-censuskey["poverty"]
-
-
-# In[ ]:
+censusval = dict()
+for k,v in censuskey.items():
+    censusval[v]=k
 
 
 
