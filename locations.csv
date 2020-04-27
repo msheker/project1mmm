@@ -40,7 +40,7 @@
 54,California,Beaumont,33.9294606,-116.977248
 56,California,Bellflower,33.8816818,-118.1170117
 57,California,Bell Gardens,33.9652918,-118.1514588
-58,California,Berkeley,37.8718992,-122.2585399
+58,California,Berkeley,37.8715226,-122.273042
 59,California,Beverly Hills,34.0736204,-118.4003563
 60,California,Brea,33.916475,-117.9002918
 61,California,Brentwood,37.931868,-121.6957863
@@ -205,7 +205,7 @@
 224,California,Yucaipa,34.033625,-117.0430865
 225,California,Yucca Valley,34.1141743,-116.432235
 227,California,"California State University, Fresno",36.8133631,-119.7460947
-228,California,"California State University, Northridge",34.2410366,-118.5276745
+228,California,"California State University, Northridge",34.2409126,-118.5273558
 229,California,Foothill-De Anza College,37.3620489,-122.1271421
 230,California,Humboldt State University,40.8747332,-124.0789268
 231,California,San Francisco State University,37.7241492,-122.4799405
@@ -415,7 +415,7 @@
 614,Kentucky,Lebanon,37.5697868,-85.2527381
 615,Kentucky,Lexington,38.0405837,-84.5037164
 616,Kentucky,London,37.1289771,-84.08326459999999
-617,Kentucky,Louisville Metro,38.2537474,-85.7615936
+617,Kentucky,Louisville Metro,38.2545195,-85.7618372
 618,Kentucky,Mount Washington,38.0500627,-85.54578769999999
 619,Kentucky,Murray,36.6103334,-88.31476099999999
 620,Kentucky,Newport,39.091449,-84.4957757
@@ -443,10 +443,10 @@
 643,Kentucky,University of Kentucky,38.0306511,-84.5039697
 644,Kentucky,University of Louisville,38.2122761,-85.75850229999999
 689,Louisiana,Gonzales,30.2385294,-90.9200987
-690,Louisiana,Monroe,32.5267122,-92.07317909999999
+690,Louisiana,Monroe,32.5093109,-92.1193012
 691,Louisiana,New Orleans,29.95106579999999,-90.0715323
 692,Louisiana,Tallulah,32.4084765,-91.1867771
-695,Louisiana,"Southern University and A&M College, New Orleans",30.5265222,-91.1929407
+695,Louisiana,"Southern University and A&M College, New Orleans",30.0259133,-90.0449055
 711,Maine,Biddeford,43.4925843,-70.45338439999999
 712,Maine,Eastport,44.9061906,-66.98997849999999
 713,Maine,Lewiston,44.100351,-70.21477639999999
@@ -530,7 +530,7 @@
 813,Massachusetts,Winthrop,42.374776,-70.9862693
 814,Massachusetts,Worcester,42.2625932,-71.8022934
 816,Massachusetts,Assumption College,42.2942965,-71.8292542
-817,Massachusetts,Boston University,42.3144915,-71.0373279
+817,Massachusetts,Boston University,42.3421949,-71.1060621
 818,Massachusetts,College of the Holy Cross,42.2392391,-71.8079608
 819,Massachusetts,Dean College,42.084906,-71.3979611
 820,Massachusetts,Massasoit Community College,42.0758677,-70.99002089999999
@@ -580,7 +580,7 @@
 870,Michigan,Grand Blanc Township,42.9125171,-83.666758
 871,Michigan,Grand Rapids,42.9633599,-85.6680863
 872,Michigan,Grandville,42.9097484,-85.7630885
-873,Michigan,Grant,42.2792155,-83.7423067
+873,Michigan,Grant,43.3361323,-85.8108819
 874,Michigan,Grosse Ile Township,42.1290753,-83.1445904
 875,Michigan,Hamburg Township,42.4641977,-83.8510786
 876,Michigan,Hampton Township,43.6411989,-83.7836403
@@ -600,7 +600,7 @@
 890,Michigan,Livonia,42.36837,-83.35270969999999
 891,Michigan,Lowell,42.9336426,-85.34196089999999
 892,Michigan,Ludington,43.9552825,-86.4525831
-893,Michigan,Mackinac Island,45.8683129,-84.6275658
+893,Michigan,Mackinac Island,45.8491796,-84.6189339
 894,Michigan,Madison Heights,42.4858692,-83.1052028
 895,Michigan,Marquette,46.5436199,-87.3953713
 896,Michigan,Marshall,42.2722641,-84.96331479999999
@@ -689,7 +689,7 @@
 1050,Minnesota,Northfield,44.4582983,-93.161604
 1051,Minnesota,Prior Lake,44.7132969,-93.4227274
 1052,Minnesota,Red Wing,44.5660691,-92.5369563
-1053,Minnesota,Rochester,44.022371,-92.463251
+1053,Minnesota,Rochester,44.0121221,-92.4801989
 1054,Minnesota,St. Cloud,45.5579451,-94.16324039999999
 1055,Minnesota,St. Louis Park,44.9597376,-93.3702186
 1056,Minnesota,St. Paul,44.9537029,-93.0899578
@@ -723,15 +723,15 @@
 1115,Nebraska,Bellevue,41.1543623,-95.9145568
 1116,Nebraska,Grand Island,40.9263957,-98.3420118
 1117,Nebraska,La Vista,41.18388780000001,-96.031127
-1118,Nebraska,Lincoln,40.8201966,-96.70047629999999
+1118,Nebraska,Lincoln,40.813616,-96.7025955
 1119,Nebraska,North Platte,41.1402759,-100.7601454
 1120,Nebraska,Ogallala,41.12821780000001,-101.7203993
 1121,Nebraska,Omaha,41.2565369,-95.9345034
 1133,Nevada,Boulder City,35.9782216,-114.8345117
 1134,Nevada,Henderson,36.0395247,-114.9817213
-1135,Nevada,Las Vegas Metropolitan Police Department,36.1273364,-115.1467141
+1135,Nevada,Las Vegas Metropolitan Police Department,36.2187932,-115.3097745
 1136,Nevada,North Las Vegas,36.1988592,-115.1175013
-1137,Nevada,Reno,39.5441917,-119.816397
+1137,Nevada,Reno,39.5296329,-119.8138027
 1139,Nevada,"University of Nevada, Las Vegas",36.1085197,-115.1431709
 1144,New Hampshire,Bedford,42.9463291,-71.51320079999999
 1145,New Hampshire,Carroll,44.297676,-71.5427968
@@ -830,7 +830,7 @@
 1243,New Jersey,Maplewood Township,40.7299793,-74.271992
 1244,New Jersey,Marlboro Township,40.3380949,-74.26872910000002
 1245,New Jersey,Medford Township,39.86618259999999,-74.8390162
-1246,New Jersey,Mendham,40.7759334,-74.6007142
+1246,New Jersey,Mendham,40.7870633,-74.57656860000002
 1247,New Jersey,Merchantville,39.9503838,-75.0479726
 1248,New Jersey,Metuchen,40.5431598,-74.3632049
 1249,New Jersey,Middle Township,39.1201616,-74.8451915
@@ -918,7 +918,7 @@
 1332,New Jersey,Monmouth University,40.2802758,-74.0054114
 1333,New Jersey,Montclair State University,40.8625464,-74.1976522
 1334,New Jersey,Princeton University,40.3430942,-74.65507389999999
-1335,New Jersey,"Rutgers University, Newark",40.741078,-74.1732736
+1335,New Jersey,"Rutgers University, Newark",40.7416983,-74.17418909999999
 1336,New Jersey,"Rutgers University, New Brunswick",40.5008186,-74.44739910000001
 1337,New Jersey,The College of New Jersey,40.268439,-74.77769599999999
 1344,New Mexico,Albuquerque,35.0843859,-106.650422
@@ -927,12 +927,12 @@
 1351,New York,Amherst Town,42.97900670000001,-78.792272
 1352,New York,Binghamton,42.09868669999999,-75.91797380000001
 1353,New York,Buffalo,42.88644679999999,-78.8783689
-1354,New York,Colonie Town,42.7213422,-73.8319824
+1354,New York,Colonie Town,42.7236699,-73.77132
 1355,New York,DeWitt Town,43.0426633,-76.067849
 1356,New York,Endicott Village,42.098408,-76.04936839999999
 1357,New York,Hamburg Town,42.7158927,-78.8294768
 1358,New York,Hastings-on-Hudson Village,40.994542,-73.8787461
-1359,New York,Hempstead Village,40.7062128,-73.6187397
+1359,New York,Hempstead Village,40.6450219,-73.63390869999999
 1360,New York,Hoosick Falls Village,42.9011892,-73.3515001
 1361,New York,Kingston,41.9270367,-73.9973608
 1362,New York,Larchmont Village,40.9278769,-73.75179829999999
@@ -1039,7 +1039,7 @@
 1516,Ohio,"Miami Township, Clermont County",39.2095414,-84.238417
 1517,Ohio,"Miami Township, Montgomery County",39.6128751,-84.2489525
 1519,Ohio,Monroe,39.44033599999999,-84.3621634
-1520,Ohio,Montgomery,39.7620028,-84.3542049
+1520,Ohio,Montgomery,39.2281143,-84.35410619999999
 1521,Ohio,Montville Township,41.0924536,-81.84429340000001
 1522,Ohio,Mount Healthy,39.2336687,-84.5457778
 1523,Ohio,Mount Orab,39.0275659,-83.91965200000001
@@ -1058,7 +1058,7 @@
 1536,Ohio,Reading,39.2236694,-84.44216410000001
 1537,Ohio,Reynoldsburg,39.9547861,-82.81211909999999
 1538,Ohio,Riverside,39.779781,-84.12410469999999
-1539,Ohio,Ross Township,39.3122782,-84.65050339999999
+1539,Ohio,Ross Township,39.3439085,-84.6688348
 1540,Ohio,Shelby,40.88144519999999,-82.6618424
 1541,Ohio,Sidney,40.2842164,-84.1554987
 1542,Ohio,Solon,41.3897764,-81.44122589999999
@@ -1219,7 +1219,7 @@
 1801,Tennessee,Spring Hill,35.751179,-86.9300023
 1802,Tennessee,Trenton,35.9806239,-88.94145379999999
 1803,Tennessee,Whitwell,35.2014631,-85.5191323
-1805,Tennessee,Tennessee State University,36.1668224,-86.8275815
+1805,Tennessee,Tennessee State University,36.1661921,-86.82948119999999
 1806,Tennessee,Vanderbilt University,36.1447034,-86.8026551
 1836,Texas,Abilene,32.4487364,-99.73314390000002
 1837,Texas,Addison,32.96179,-96.82916850000001
@@ -1234,7 +1234,7 @@
 1847,Texas,Brownsville,25.9017472,-97.4974838
 1848,Texas,Brownwood,31.7093197,-98.9911611
 1849,Texas,Burleson,32.5420821,-97.3208492
-1850,Texas,Canyon,32.0045266,-110.1392363
+1850,Texas,Canyon,34.9803342,-101.9188024
 1851,Texas,Carrollton,32.9756415,-96.8899636
 1852,Texas,Carthage,32.1573841,-94.3374199
 1853,Texas,Cedar Park,30.505198,-97.8202888
@@ -1281,7 +1281,7 @@
 1896,Texas,Lubbock,33.5778631,-101.8551665
 1897,Texas,Lyford,26.4122916,-97.78971759999999
 1898,Texas,Manor,30.3407629,-97.55694559999999
-1899,Texas,Mesquite,29.9802937,-95.7174531
+1899,Texas,Mesquite,32.76679550000001,-96.5991593
 1900,Texas,Mineral Wells,32.8084605,-98.1128223
 1901,Texas,Mont Belvieu,29.8477222,-94.89075799999999
 1902,Texas,Nacogdoches,31.6035129,-94.6554874
@@ -1317,8 +1317,8 @@
 1934,Texas,Angelo State University,31.4382686,-100.4602762
 1935,Texas,Stephen F. Austin State University,31.6206018,-94.64506019999999
 1936,Texas,"University of Houston, Central Campus",29.7199489,-95.3422334
-1937,Texas,"University of Texas, Arlington",32.7291229,-97.11209140000001
-1938,Texas,"University of Texas, Houston",29.7120163,-95.39779999999999
+1937,Texas,"University of Texas, Arlington",32.7305216,-97.1228678
+1938,Texas,"University of Texas, Houston",29.7031663,-95.4032312
 1969,Utah,Bountiful,40.8893895,-111.880771
 1970,Utah,Clearfield,41.1107771,-112.0260538
 1971,Utah,Draper,40.5246711,-111.8638226
@@ -1404,11 +1404,11 @@
 2108,Washington,Lynnwood,47.8209301,-122.3151314
 2109,Washington,Marysville,48.0517637,-122.1770818
 2110,Washington,Mill Creek,47.8600971,-122.2042966
-2111,Washington,Monroe,40.1455092,-89.3579271
+2111,Washington,Monroe,47.8553772,-121.970958
 2112,Washington,Morton,46.5584421,-122.2751046
 2113,Washington,Mountlake Terrace,47.7881528,-122.3087405
-2114,Washington,Mount Vernon,38.707982,-77.0861753
-2115,Washington,Newcastle,54.89743199999999,-1.517366
+2114,Washington,Mount Vernon,48.4201105,-122.3374543
+2115,Washington,Newcastle,47.5376072,-122.1619948
 2116,Washington,Oak Harbor,48.28829469999999,-122.6484205
 2117,Washington,Ocean Shores,47.0074167,-124.1613654
 2118,Washington,Olympia,47.0378741,-122.9006951
@@ -1431,7 +1431,7 @@
 2135,Washington,Walla Walla,46.0645809,-118.3430208
 2136,Washington,Woodland,45.9045591,-122.7439912
 2137,Washington,Yakima,46.6020711,-120.5058987
-2139,Washington,University of Washington,47.6912794,-122.3176141
+2139,Washington,University of Washington,47.65533509999999,-122.3035199
 2140,Washington,Western Washington University,48.7342877,-122.4866103
 2163,West Virginia,Buckhannon,38.9939872,-80.2320276
 2164,West Virginia,Charleston,38.3498195,-81.6326234
